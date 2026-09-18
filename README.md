@@ -35,7 +35,7 @@ Clone the project repository using Git:
 
 ```bash
    git clone https://github.com/Za1nabHasan/Fundamentals-of-ai-ml.git
-
+```
 
 Instructions for Testing
 
@@ -50,3 +50,14 @@ Run the prediction section using sample test images and verify that the model pr
 Verify that the trained model is successfully saved as cifar10_classifier_model.h5.
 
 Successful completion of these steps confirms that the main components of the project—including dataset loading, preprocessing, model training, evaluation, prediction, and model saving—are functioning correctly.
+
+
+## Screenshots
+
+### CIFAR-10 Dataset Samples
+
+![CIFAR-10 Dataset Samples](screenshots/dataset_samples.png)
+
+### Prediction Results
+
+![Prediction Results](screenshots/prediction_results.png)
