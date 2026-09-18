@@ -50,5 +50,3 @@ Run the prediction section using sample test images and verify that the model pr
 Verify that the trained model is successfully saved as cifar10_classifier_model.h5.
 
 Successful completion of these steps confirms that the main components of the project—including dataset loading, preprocessing, model training, evaluation, prediction, and model saving—are functioning correctly.
-<img width="825" height="433" alt="image" src="https://github.com/user-attachments/assets/8816ed11-2cdc-46d4-8fbe-d30e9a634f65" />
-
