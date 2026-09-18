@@ -1,0 +1,68 @@
+# Project Report: CIFAR-10 Image Classification Using All-CNN
+ 
+
+Project Name:
+
+CIFAR-10 Image Classification
+
+Project Description:
+
+This project is about classifying images from the CIFAR-10 dataset using the All-CNN architecture. The CIFAR-10 dataset has 60,000 low-resolution color images. These images are categorized into ten classes: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck. I used the All-CNN architecture because it is good at classifying images. This architecture helps us understand the features and patterns in images.
+
+## Objectives
+
+The main goals of this project were:
+
+- To build a neural network that can classify images.
+
+- To learn about the CIFAR-10 dataset and what it is like.
+
+- To prepare the data so the model can perform well.
+
+- To get a high accuracy rate when classifying images the model has not seen before.
+
+## Key Milestones
+
+### Milestone 1: Dataset Integration
+
+I successfully added the CIFAR-10 dataset to my project. This dataset has 60,000 images in ten categories. There are 50,000 images for training and 10,000 for testing. I made sure the dataset was in the format and could be used for the next steps.
+
+### Milestone 2: Data Visualization
+
+I looked at the data to see how the classes are distributed and to check the quality of the images. This helped me find any imbalances in the classes and see if there were any issues with the data that could affect how well the model performs.
+
+### Milestone 3: Data Preprocessing
+
+I prepared the images for training the All-CNN model. I did this by:
+
+- **Pixel Normalization**: I changed the pixel values to be between 0 and 1. This helps the model train
+
+- **One-Hot Encoding**: I changed the labels into a format the model can understand. This helps the model know what it is trying to predict.
+
+## Model Implementation and Training
+
+I built the All-CNN model. Trained it on the prepared CIFAR-10 dataset. The model has layers that help it understand the images. I trained the model for rounds trying to make it better at predicting the correct classes.
+
+## Project Outcome
+
+After training the model it was able to classify 90% of the images it had not seen before. This means the model is very good at classifying images. The All-CNN architecture is effective. This project shows how well deep learning can work for image classification.
+
+## This project taught me a lot about neural networks and how they can be used for real-world image classification problems. The steps I took to complete this project helped me understand the challenges of working with images and how to prepare and analyze them.
+
+This project shows how good deep learning models are at classifying images. It is a starting point for complex projects in computer vision.
+
+## Future Work
+
+To make this project better I could:
+
+- Try using advanced models, like ResNet or DenseNet.
+
+- Add more variety to the training dataset to prevent the model from overfitting.
+
+- Adjust the models settings to make it perform even better.
+
+- Test the model on other datasets to see how well it generalizes.
+
+### Acknowledgments
+
+I want to thank my Artificial Intelligence and Machine Learning classes for helping me with this project. They provided the knowledge I needed to complete it.
