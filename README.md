@@ -1,5 +1,5 @@
 # CIFAR-10 Image Classification using CNN
-A Deep Learning project developed for my 1st-year AI & ML curriculum. 
+A Deep Learning project developed for my 2nd-year AI & ML curriculum. 
 
 ## Project Overview
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset into 10 distinct categories.
