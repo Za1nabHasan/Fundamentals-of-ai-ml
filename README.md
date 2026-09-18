@@ -34,7 +34,8 @@ The project demonstrates the basic workflow of a deep learning image-classificat
 Clone the project repository using Git:
 
 ```bash
-   git clone <https://github.com/Za1nabHasan/Fundamentals-of-ai-ml.git>
+   git clone https://github.com/Za1nabHasan/Fundamentals-of-ai-ml.git
+
 
 Instructions for Testing
 
